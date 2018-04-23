@@ -1,0 +1,8 @@
+prefix=/home/matt/work/dev/ros/robocake_ws/devel
+
+Name: mybot_navigation
+Description: Description of mybot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/matt/work/dev/ros/robocake_ws/devel/lib 
+Requires: 
